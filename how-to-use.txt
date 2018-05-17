@@ -1,0 +1,13 @@
+Put the values of Dielectric-Constant of the substrate material,central Frequency, and substrate thickness
+inside the parantheses as shown: 
+
+#dielectric constant
+er=(2.33)
+
+#Resonant frquency
+F=(3.5)*1000000000
+
+#substrate thickness
+h=(0.787)/100
+
+Note: Frequency value in GHz, and thickness value (h) in Centi-meters (cm)
